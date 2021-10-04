@@ -1,0 +1,24 @@
+.App-layout{
+  text-align: center;
+}
+.calc-button{
+  height: 100px;
+  width: 100px;
+  padding: 5px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.calc-display{
+  margin: 0 auto;
+  margin-top: 10px;
+  height: 100px;
+  width: 400px;
+  text-align: right;
+  font-size: 60px;
+  font-weight: bold;
+  border: 1px #cccccc solid;
+}
+.calc-button-area{
+  margin: 0 auto;
+  width: 400px;
+}
